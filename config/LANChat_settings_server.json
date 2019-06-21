@@ -1,0 +1,7 @@
+{
+  "server": "http://192.168.1.130:8080/session",
+  "sender": "gep",
+  "clients": ["1_eg", "2_eg", "3_eg", "4_eg"],
+  "icon": "src/earth8bit.png",
+  "sound_notification_filepath": "src/Mario-coin-sound-wav.wav"
+}
